@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# THINK, Grupo de Estudo Universitário - Organograma
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um site desenvolvido em React para apresentar o organograma de um Grupo de Estudo Universitário. O objetivo é proporcionar uma visão clara da estrutura organizacional do grupo, destacando os diferentes papéis e responsabilidades dos membros.
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+-![Logo do React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png) React
+-![Logo do HTML](https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png) HTML
+-![Logo do CSS](https://e7.pngegg.com/pngimages/603/759/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle-thumbnail.png) CSS
 
-### `npm start`
+## Visão Geral
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+O "THINK" é um exemplo de comunidade de estudantes dedicados a aprender e colaborar em diversas disciplinas acadêmicas. Este site exibe um organograma, mostrando como as responsabilidades e atividades são distribuídas entre os membros.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Funcionalidades
 
-### `npm test`
+- **Criação de Cards de Integrantes**: O usuário pode criar o card de cada integrantes do grupo, expecificando seu Nome, Cargo e Foto.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Visualização do Organograma**: Os usuários podem visualizar o organograma da equipe de estudo, com os diferentes papéis e equipes claramente representados.
 
-### `npm run build`
+## Como Utilizar
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. **Criação de Cards de Integrantes**:
+   - Os integrantes podem criar seus próprios cards personalizados, adicionando informações como nome, foto e cargo.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. **Visualização do Organograma**:
+   - Ao acessar o site, os usuários serão recebidos com o organograma completo da equipe.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Como Contribuir
 
-### `npm run eject`
+Se você gostaria de contribuir para este projeto, siga estas etapas:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Faça um fork do repositório.
+2. Clone o seu fork para a sua máquina local.
+3. Crie uma nova branch para as suas alterações: `git checkout -b minha-nova-feature`
+4. Faça commit das suas alterações: `git commit -m "Adicionei uma nova funcionalidade"`
+5. Faça push para a sua branch: `git push origin minha-nova-feature`
+6. Faça um pull request no repositório original.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Autor
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Este projeto foi desenvolvido por [Seu Nome].
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Licença
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este projeto está licenciado sob a [Licença XYZ]. Você pode ler a licença completa [aqui](link-para-licenca).
