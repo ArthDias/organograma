@@ -23,10 +23,6 @@ Este projeto é um site desenvolvido em React para apresentar o organograma de u
   </table>
 </div>
 
-
-
-
-
 ## Visão Geral
 
 O "THINK" é um exemplo de comunidade de estudantes dedicados a aprender e colaborar em diversas disciplinas acadêmicas. Este site exibe um organograma, mostrando como as responsabilidades e atividades são distribuídas entre os membros.
@@ -45,21 +41,6 @@ O "THINK" é um exemplo de comunidade de estudantes dedicados a aprender e colab
 2. **Visualização do Organograma**:
    - Ao acessar o site, os usuários serão recebidos com o organograma completo da equipe.
 
-## Como Contribuir
-
-Se você gostaria de contribuir para este projeto, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Clone o seu fork para a sua máquina local.
-3. Crie uma nova branch para as suas alterações: `git checkout -b minha-nova-feature`
-4. Faça commit das suas alterações: `git commit -m "Adicionei uma nova funcionalidade"`
-5. Faça push para a sua branch: `git push origin minha-nova-feature`
-6. Faça um pull request no repositório original.
-
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome].
-
-## Licença
-
-Este projeto está licenciado sob a [Licença XYZ]. Você pode ler a licença completa [aqui](link-para-licenca).
+Este projeto foi desenvolvido por Arthur Dias.
