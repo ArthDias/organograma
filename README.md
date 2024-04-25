@@ -4,9 +4,28 @@ Este projeto é um site desenvolvido em React para apresentar o organograma de u
 
 ## Tecnologias Utilizadas
 
--![Logo do React](https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png) React
--![Logo do HTML](https://e7.pngegg.com/pngimages/913/851/png-clipart-responsive-web-design-html-world-wide-web-consortium-world-wide-web-angle-text.png) HTML
--![Logo do CSS](https://e7.pngegg.com/pngimages/603/759/png-clipart-css3-cascading-style-sheets-logo-html-world-wide-web-blue-angle-thumbnail.png) CSS
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" width="100" title="Logo React" alt="Logo React"><br>
+        <p>REACT</p>
+      </td>
+      <td align="center">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="100" title="Logo HTML" alt="Logo HTML"><br>
+        <p>HTML</p>
+      </td>
+      <td align="center">
+        <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="90" title="Logo CSS" alt="CSS"><br>
+        <p>CSS</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 ## Visão Geral
 
