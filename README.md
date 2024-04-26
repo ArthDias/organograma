@@ -2,6 +2,8 @@
 
 Este projeto é um site desenvolvido em React para apresentar o organograma de um Grupo de Estudo Universitário. O objetivo é proporcionar uma visão clara da estrutura organizacional do grupo, destacando os diferentes papéis e responsabilidades dos membros.
 
+<strong>Acesse aqui o <a href="https://think-organograma.vercel.app">site.</a></strong>
+
 ## Tecnologias Utilizadas
 
 <div align="center">
